@@ -1,7 +1,7 @@
-- 👋 Oi, sou @LuisAlura
-- 👀 Eu estou interessado em programação
-- 🌱 Eu estou aprendendo sobre HTML
-- 💞️ Busco colaborar com a RIOT GAMES
+- 👋 Oi, sou @LuisAlura.
+- 👀 Eu estou interessado em programação.
+- 🌱 Eu estou aprendendo sobre HTML.
+- 💞️ Busco colaborar com a RIOT GAMES.
 - 📫 Busco aprender bastante sobre tudo.
 
 <!---
